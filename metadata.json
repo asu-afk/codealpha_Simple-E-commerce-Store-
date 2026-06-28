@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Store",
+  "description": "A full-featured e-commerce store with product search, filtering, custom product pages, dynamic shopping cart, order checkout, JWT authentication, order tracking, and an AI shopping assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
